@@ -43,5 +43,3 @@ ruff check .               # lint
 Tests write only to a temporary folder, so they never change your data or contracts.
 
 ## License
-
-Add a license before sharing publicly (MIT is a common choice).
